@@ -1,0 +1,9 @@
+emp={
+    'eid':101,
+    'ename':'Rahul',
+    'esal':45000.45,
+    'loc':'Wayanad'
+}
+print(type(emp.keys()))
+print(type(emp.values()))
+print(type(emp.items()))
