@@ -1,0 +1,1 @@
+This is a sample text file containing twenty words for testing file write operations in Python programming language.
