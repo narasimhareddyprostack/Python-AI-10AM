@@ -1,0 +1,5 @@
+fp=open('emp.txt','r')
+data=fp.read()
+print(data)
+print("GM")
+fp.close()
