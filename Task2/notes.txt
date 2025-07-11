@@ -1,0 +1,17 @@
+Task 
+REST URL: https://jsonplaceholder.typicode.com/users
+Method Method:GET
+Access Type:Public
+Required Fields: None
+
+Consume Rest Api in python, insert /write data into new
+CSV file
+Json file
+Insert into mysql user table
+insert into mongoDB user collection
+
+Note: with Error handling options
+
+
+pip install mysql-connector-python
+pip install pymongo
